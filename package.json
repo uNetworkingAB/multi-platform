@@ -1,0 +1,6 @@
+{
+  "name": "multi-platform-win32-x64",
+  "version": "1.0.0",
+  "os": ["win32"],
+  "cpu": ["x64"]
+}
