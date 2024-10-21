@@ -2,8 +2,8 @@
   "name": "multi-platform",
   "version": "1.0.0",
   "dependencies": {
-    "multi-platform-darwin-x64": "github:larixer/multi-platform#darwin-x64-1.0.0",
-    "multi-platform-linux-x64": "github:larixer/multi-platform#linux-x64-1.0.0",
-    "multi-platform-win32-x64": "github:larixer/multi-platform#win32-x64-1.0.0"
+    "multi-platform-darwin-x64": "github:uNetworkingAB/multi-platform#darwin-x64-1.0.0",
+    "multi-platform-linux-x64": "github:uNetworkingAB/multi-platform#linux-x64-1.0.0",
+    "multi-platform-win32-x64": "github:uNetworkingAB/multi-platform#win32-x64-1.0.0"
   }
 }
