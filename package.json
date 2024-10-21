@@ -2,5 +2,5 @@
   "name": "multi-platform-darwin-x64",
   "version": "1.0.0",
   "os": ["darwin"],
-  "cpu": ["x64"]
+  "cpu": ["arm64"]
 }
